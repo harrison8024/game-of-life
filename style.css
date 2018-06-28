@@ -1,0 +1,15 @@
+.col{
+    height: 50px;
+    width: 50px;
+    display: table-cell;
+    background-color: white;
+}
+.row{
+    display: table-row
+}
+.gameBoard{
+    display: table;
+    border-spacing: 1px;
+    border: 5px solid black;
+    background-color: black;
+}
